@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "simaqian",
+      "description": "Use when turning a person's materials into a living Personal OS: persona-agent.md as the single source, plus projections (homepage, bios, compact persona, calibration). Also use when updating an existing persona after new work, interviews, reviews, or a full re-examination. Trigger on 个人使用说明书、个人主页、bio、personal OS、persona、更新我的 persona、我有新作品、并入材料、重审、生成 bios、紧凑版、司马迁.",
+      "type": "archive",
+      "url": "https://simaqian.caojuege.com/downloads/agent-simaqian-ba8b8ce7db14ecfa.zip",
+      "digest": "sha256:ba8b8ce7db14ecfa010826f495ec634df0470de32af7d02495250fdf394b6b6f"
+    }
+  ]
+}
