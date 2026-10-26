@@ -1,5 +1,5 @@
 ---
-name: simaqian.skill
+name: simaqian
 description: "Use when turning a person's materials into a living Personal OS: persona-agent.md as the single source, plus projections (homepage, bios, compact persona, calibration). Also use when updating an existing persona after new work, interviews, reviews, or a full re-examination. Trigger on 个人使用说明书、个人主页、bio、personal OS、persona、更新我的 persona、我有新作品、并入材料、重审、生成 bios、紧凑版、司马迁."
 ---
 

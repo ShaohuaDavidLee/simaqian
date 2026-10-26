@@ -78,3 +78,5 @@ skill 文本与落地页互不依赖；落地页只承载启动提示词。
 - `persona-agent.md` 是用户产物的唯一源。投影永不手改，源变则全量重渲。
 - 与草诀歌之笔其他工具松耦合：不共享契约，只共享受众。
 - 已流出的 `#render?...` 链接由 `landing/legacy/` 继续渲染，不进入产品叙事。
+
+Agent 读取入口：发布目录内的 `llms.txt`、`index.md`、`.well-known/agent-skills/index.json`、`agent-skills/` 和带 SHA-256 文件名的 `downloads/agent-*.zip`。生成方式见 README 的 Agent 资源段落。
